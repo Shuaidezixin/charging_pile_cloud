@@ -1,7 +1,7 @@
 package com.suda.platform.enums.comstatus;
 
 import com.google.common.collect.Lists;
-import com.shop.enums.comstatus.IsDeleteEnum;
+import com.suda.platform.enums.comstatus.IsDeleteEnum;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.shop.enums.comstatus;
+package com.suda.platform.enums.comstatus;
 
 import com.google.common.collect.Lists;
 
